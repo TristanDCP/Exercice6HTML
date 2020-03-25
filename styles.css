@@ -1,4 +1,9 @@
-.b1
+* {
+    box-sizing: border-box;
+}
+
+
+#b1
 {
 width: 75%;
 height: 15px;
@@ -7,7 +12,7 @@ float: left;
 
 }
 
-.b2
+#b2
 {
 width: 25%;
 height: 15px;
@@ -16,7 +21,7 @@ float: left;
 
 }
 
-.b3
+#b3
 {
 width: 40%;
 height: 40px;
@@ -25,7 +30,7 @@ float: left;
 
 }
 
-.b4
+#b4
 {
 width: 30%;
 height: 20px;
@@ -34,7 +39,7 @@ float: left;
 
 }
 
-.b5
+#b5
 {
 width: 30%;
 height: 20px;
@@ -43,7 +48,7 @@ float: left;
 
 }
 
-.b6
+#b6
 {
 width: 20%;
 height: 20px;
@@ -52,7 +57,7 @@ float: left;
 
 }
 
-.b7
+#b7
 {
 width: 20%;
 height: 20px;
@@ -61,7 +66,7 @@ float: left;
 
 }
 
-.b8
+#b8
 {
 width: 20%;
 height: 20px;
@@ -70,7 +75,7 @@ float: left;
 
 }
 
-.b9
+#b9
 {
 width: 100%;
 height: 50px;
