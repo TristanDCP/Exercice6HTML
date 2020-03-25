@@ -1,9 +1,15 @@
+.flex-container{
+        display: ;
+        flex-wrap: nowrap;
+}
+
 .b1
 {
     width: 75%;
     height: 15px;
     background-color: #b000fa;
     float: left;
+    
 }
 
 .b2
@@ -12,6 +18,7 @@
     height: 15px;
     background-color: #f392ff;
     float: left;
+    
 }
 
 .b3
@@ -20,6 +27,7 @@
     height: 40px;
     background-color: #e74c3c; 
     float: left;
+    
 }
 
 .b4
@@ -28,6 +36,7 @@
     height: 20px;
     background-color: #e67e22;
     float: left;
+   
 }
 
 .b5
@@ -36,6 +45,7 @@
     height: 20px;
     background-color: #95a5a6;
     float: left;
+    
 }
 
 .b6
@@ -44,6 +54,7 @@
     height: 20px;
     background-color: #f39c12;
     float: left;
+    
 }
 
 .b7
@@ -52,6 +63,7 @@
     height: 20px;
     background-color: #16a085;
     float: left;
+   
 }
 
 .b8
@@ -60,6 +72,7 @@
     height: 20px;
     background-color: #d35400;
     float: left;
+ 
 }
 
 .b9
