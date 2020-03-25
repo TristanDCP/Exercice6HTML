@@ -1,15 +1,17 @@
 .b1
 {
-    width: 100%;
-    height: 10px;
+    width: 75%;
+    height: 15px;
     background-color: red;
+    float: left;
 }
 
 .b2
 {
-    width: 150%;
-    height: 10px;
+    width: 25%;
+    height: 15px;
     background-color: blue;
+    float: left;
 }
 
 .b3
@@ -17,6 +19,7 @@
     width: 150%;
     height: 10px;
     background-color: blueviolet; 
+    float: left;
 }
 
 .b4
@@ -24,6 +27,7 @@
     width: 150%;
     height: 10px;
     background-color: pink;
+    float: left;
 }
 
 .b5
@@ -31,6 +35,7 @@
     width: 150%;
     height: 10px;
     background-color: yellow;
+    float: left;
 }
 
 .b6
@@ -38,6 +43,7 @@
     width: 150%;
     height: 10px;
     background-color: orange;
+    float: left;
 }
 
 .b7
@@ -45,6 +51,7 @@
     width: 150%;
     height: 10px;
     background-color: orangered;
+    float: left;
 }
 
 .b8
@@ -52,6 +59,7 @@
     width: 150%;
     height: 10px;
     background-color: lightblue;
+    float: left;
 }
 
 .b9
@@ -59,4 +67,5 @@
     width: 150%;
     height: 10px;
     background-color: greenyellow;
+    float: left;
 }
